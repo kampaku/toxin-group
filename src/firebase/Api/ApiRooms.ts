@@ -5,7 +5,6 @@ import {
   query,
   Firestore,
   where,
-  limit,
 } from 'firebase/firestore';
 
 import { checkIsRoomSuitable } from 'utils/checkIsRoomSuitable';
